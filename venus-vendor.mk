@@ -546,9 +546,6 @@ PRODUCT_PACKAGES += \
     libcamera_dirty \
     libcamera_scene \
     libcamerapostproc \
-    libcapiv2svacnn \
-    libcapiv2svarnn \
-    libcapiv2vop \
     libchilog \
     libcom.qti.chinodeutils \
     libcom.xiaomi.debug \
